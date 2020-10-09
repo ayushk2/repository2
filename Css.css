@@ -1,0 +1,13 @@
+body,
+html{
+  width :100%;
+  heigh:100%;
+  background: url(https://post.greatist.com/wp-content/uploads/sites/3/2020/02/325466_1100-800x825.jpg) no-repeat center center fixed;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+}
+h1,h2{
+text-align:center;
+}
